@@ -1,6 +1,6 @@
 {
   "name": "ng-stats",
-  "main": "src/ng-stats.js",
+  "main": "ng-stats.js",
   "version": "1.0.6",
   "authors": [
     "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
@@ -26,8 +26,7 @@
   "homepage": "https://github.com/kentcdodds/ng-stats",
   "ignore": [
     "*",
-    "!README.md",
-    "!ng-stats.js"
+    "!README.md"
   ],
   "dependencies": {
     "angularjs": "~1.3.3"
