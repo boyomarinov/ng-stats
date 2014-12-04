@@ -1,6 +1,6 @@
 {
   "name": "ng-stats",
-  "main": "ng-stats.js",
+  "main": "src/ng-stats.js",
   "version": "1.0.6",
   "authors": [
     "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
